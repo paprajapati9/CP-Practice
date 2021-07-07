@@ -1,0 +1,19 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "cppdbg",
+      "request": "launch",
+      "args": [],
+      "stopAtEntry": false,
+      "cwd": "/home/pankaj/P/CP/DSA Practice",
+      "environment": [],
+      "program": "/home/pankaj/P/CP/DSA Practice/build/Debug/outDebug",
+      "internalConsoleOptions": "openOnSessionStart",
+      "MIMode": "gdb",
+      "miDebuggerPath": "gdb",
+      "externalConsole": false
+    }
+  ]
+}
